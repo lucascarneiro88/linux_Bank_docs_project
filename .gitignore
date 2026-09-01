@@ -1,0 +1,25 @@
+﻿# Vagrant
+lab/.vagrant/
+
+# Kubernetes
+kubeconfig
+*kubeconfig*
+*.kubeconfig
+
+# Segredos e chaves
+*.pem
+*.key
+*.crt
+secrets/
+.env
+.env.*
+
+# Cosign
+cosign.key
+
+# Diversos
+__pycache__/
+*.pyc
+*.log
+*.retry
+.DS_Store
