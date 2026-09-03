@@ -17,6 +17,10 @@ secrets/
 # Cosign
 cosign.key
 
+# Trivy
+trivy-*.json
+
+
 # Diversos
 __pycache__/
 *.pyc
